@@ -1,4 +1,4 @@
-# Thrivo System Documentation 📚
+# Thrivo System Documentation
 
 [![Doc Status](https://img.shields.io/badge/Documentation-V1.0.0--Hardened-success.svg)](#)
 [![Compliance](https://img.shields.io/badge/Compliance-DPDP%20Act%202023-blue.svg)](#)
@@ -9,7 +9,7 @@ This repository houses all architectural design documents, legal compliance guid
 
 ---
 
-## 🚀 Mission & Vision
+## Mission & Vision
 
 * **Mission:** To democratize and secure the entrepreneurial journey by unifying a highly fragmented startup ecosystem. Thrivo provides small businesses, founders, investors, and creators with a synchronized platform built on verified trust, seamless commerce, and transparent growth metrics.
 * **Vision:** To build the world’s most trusted multi-sided discovery ecosystem where any innovative idea can safely transition from a raw founder pitch to a household product without the friction of fragmented platforms, the risk of IP theft, or the barrier of corporate gatekeepers.
@@ -17,7 +17,7 @@ This repository houses all architectural design documents, legal compliance guid
 
 ---
 
-## 🗺️ System Blueprint
+## System Blueprint
 
 ```mermaid
 graph TD
@@ -43,7 +43,7 @@ graph TD
 
 ---
 
-## 📑 Document Directory
+## Document Directory
 
 This repository is organized into the following sections:
 
@@ -69,7 +69,7 @@ This repository is organized into the following sections:
 
 ---
 
-## 🎨 Visual Identity & Brand Personality
+## Visual Identity & Brand Personality
 
 * **Brand Personality:** *The Accomplished Catalyst* — Sharp, articulate, supportive, secure, and modern.
 * **Design Guidelines:** Modern dark mode interface with smooth gradients, utilizing **Outfit** and **Inter** font systems, emphasizing verified trust badges and clean UI boundaries.
