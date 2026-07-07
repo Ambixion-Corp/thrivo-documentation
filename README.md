@@ -3,9 +3,9 @@
 [![Doc Status](https://img.shields.io/badge/Documentation-V1.0.0--Hardened-success.svg)](#)
 [![Compliance](https://img.shields.io/badge/Compliance-DPDP%20Act%202023-blue.svg)](#)
 
-Welcome to the central documentation repository for the **Thrivo Web Application** — a secure, high-trust, multi-sided discovery ecosystem. 
+Welcome to the central documentation repository for the **Thrivo 2.0 Ecosystem** — a secure, high-trust, multi-sided discovery ecosystem. 
 
-This repository houses all architectural design documents, legal compliance guidelines, user flows, and project roadmaps that define the Thrivo Web Platform.
+This repository houses all architectural design documents, legal compliance guidelines, user flows, and project roadmaps that define the Thrivo 2.0 Platform.
 
 ---
 
