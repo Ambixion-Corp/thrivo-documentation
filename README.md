@@ -73,3 +73,13 @@ This repository is organized into the following sections:
 
 * **Brand Personality:** *The Accomplished Catalyst* — Sharp, articulate, supportive, secure, and modern.
 * **Design Guidelines:** Modern dark mode interface with smooth gradients, utilizing **Outfit** and **Inter** font systems, emphasizing verified trust badges and clean UI boundaries.
+
+---
+
+## Changelog & Releases
+
+This repository uses [release-please](https://github.com/googleapis/release-please) to automate versioning and changelog generation from Conventional Commits. A `CHANGELOG.md` is maintained at the repository root and is updated automatically whenever changes are merged to `main`.
+
+- **Version bumps** and changelog entries are prepared in a release pull request by the `release-please` GitHub Actions workflow.
+- Merging the release pull request publishes a tagged GitHub Release alongside the updated changelog.
+- Commits should follow the `feat:`, `fix:`, `docs:`, `chore:`, `build:`, `style:`, `refactor:`, `perf:`, or `ci:` prefixes so they are grouped into the correct changelog sections.
