@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/Ambixion-Corp/thrivo-documentation/compare/v0.1.1...v0.1.2) (2026-08-14)
+
+
+### Documentation
+
+* document automated changelog and releases in README ([#4](https://github.com/Ambixion-Corp/thrivo-documentation/issues/4)) ([4e96c83](https://github.com/Ambixion-Corp/thrivo-documentation/commit/4e96c833ead0d00d0312599722d9f4616e7973f1))
+
 ## [0.1.1](https://github.com/Ambixion-Corp/thrivo-documentation/compare/v0.1.0...v0.1.1) (2026-08-12)
 
 
